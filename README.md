@@ -2,14 +2,14 @@
 
 I'm a **frontend-focused full-stack engineer** with 9+ years of experience building performant, user-centric web applications. My expertise lies in crafting scalable products using the **MERN / MEVN stack**, with a heavy emphasis on **TypeScript**, **Next.js / Nuxt**, **Node.js**, and **PostgreSQL**.
 
-I’m passionate about building tools that make people’s lives easier — whether it’s in **recruitment tech**, **automotive**, or **fintech**. I’ve worked across fast-paced startups and global product teams, and I love solving problems at scale.
+I’m passionate about building tools that make people’s lives easier whether it’s in **recruitment tech**, **automotive**, or **fintech**. I’ve worked across fast-paced startups and global product teams, and I love solving problems at scale.
 
 ---
 
 ## 🧰 Tech Stack & Specialties
 
-- **Languages:** TypeScript, JavaScript, HTML5, SCSS, SQL
-- **Frontend:** React, Next.js, Vue, Nuxt, Redux, TailwindCSS
+- **Languages:** TypeScript, JavaScript, Python, Ruby
+- **Frontend:** React, Next.js, Vue, Nuxt, Zustand, TailwindCSS, Playwright
 - **Backend:** Node.js, Express, REST APIs, PostgreSQL, MongoDB
 - **DevOps & Tooling:** Cloudflare Pages, Vercel, Docker, GitHub Actions
 - **Testing & QA:** Jest, Cypress, Vitest
@@ -39,6 +39,23 @@ I’m passionate about building tools that make people’s lives easier — whet
 > - Led frontend performance optimizations  
 > - Hands-on with authentication, security, and scalable UI patterns  
 > → Check it out: [web.moneylion.com](https://web.moneylion.com), [accounts.moneylion.com](https://accounts.moneylion.com)
+
+---
+
+### 🚗 [SOCAR / Trevo (Car Sharing & Mobility Tech)](https://trevo.my)
+> At SOCAR Malaysia, I took full product ownership over key features across their core car-sharing platforms:
+
+- 🛡️ **Built the entire insurance product**, end-to-end:
+  - Developed the **insurance dashboard**: [gearbox.trevo.my](https://gearbox.trevo.my)
+  - Built the **insurance user interface** for end-users: [guard.trevo.my](https://www.guard.trevo.my/home)
+  - Connected frontend + backend, handled API design, roles, and logic
+
+- 🌏 **Spearheaded Trevo's expansion into Indonesia**  
+  - Collaborated cross-functionally with product, ops, and backend teams  
+  - Contributed to frontend components for localized launch features
+
+- 🌐 Platforms:  
+  [trevo.my](https://trevo.my) | [socar.my](https://socar.my)
 
 ---
 
