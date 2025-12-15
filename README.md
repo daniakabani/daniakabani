@@ -1,10 +1,10 @@
-👋 Hi, I'm Dani Akabani.
+Hi, I'm Dani Akabani.
 
 A Staff Frontend Engineer focused on **Architecture, Engineering Velocity, and measurable Business Impact** across large-scale web platforms. Currently located in Kuala Lumpur (Remote, UTC+8).
 
 ---
 
-### 💡 Core Focus & Expertise (What I Own)
+### Core Focus & Expertise (What I Own)
 
 My work revolves around solving complex scaling challenges and aligning frontend architecture with concrete business outcomes.
 
@@ -15,7 +15,7 @@ My work revolves around solving complex scaling challenges and aligning frontend
 
 ---
 
-### ⚙️ Technologies I Leverage
+### Technologies I Leverage
 
 My focus is on creating scalable, type-safe, and performant foundations.
 
@@ -28,14 +28,14 @@ My focus is on creating scalable, type-safe, and performant foundations.
 
 ---
 
-### 🌱 Current Learning & Mentorship
+### Current Learning & Mentorship
 
 * **Current Deep Dive:** Exploring the implications of the new **Interaction to Next Paint (INP)** metric for large-scale e-commerce funnels. (I'm particularly interested in how we can instrument complex event handlers without excessive re-renders).
 * **Mentorship:** Always open to connecting with engineers looking to move from Mid-level to Senior/Staff, especially around **technical roadmap creation** and **business alignment**. (I previously led and grew a 13-engineer frontend chapter).
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect!
 
 * **Portfolio:** https://danimation.space
 * **LinkedIn:** https://linkedin.com/in/daniakabani
