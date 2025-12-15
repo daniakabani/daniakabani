@@ -1,95 +1,45 @@
-# Hey there 👋 I'm Dani Alakabani
+👋 Hi, I'm Dani Akabani.
 
-I'm a **frontend-focused full-stack engineer** with 9+ years of experience building performant, user-centric web applications. My expertise lies in crafting scalable products using the **MERN / MEVN stack**, with a heavy emphasis on **TypeScript**, **Next.js / Nuxt**, **Node.js**, and **PostgreSQL**.
-
-I’m passionate about building tools that make people’s lives easier whether it’s in **recruitment tech**, **automotive**, or **fintech**. I’ve worked across fast-paced startups and global product teams, and I love solving problems at scale.
+A Staff Frontend Engineer focused on **Architecture, Engineering Velocity, and measurable Business Impact** across large-scale web platforms. Currently located in Kuala Lumpur (Remote, UTC+8).
 
 ---
 
-## 🧰 Tech Stack & Specialties
+### 💡 Core Focus & Expertise (What I Own)
 
-- **Languages:** TypeScript, JavaScript, Python, Ruby
-- **Frontend:** React, Next.js, Vue, Nuxt, Zustand, TailwindCSS, Playwright
-- **Backend:** Node.js, Express, REST APIs, PostgreSQL, MongoDB
-- **DevOps & Tooling:** Cloudflare Pages, Vercel, Docker, GitHub Actions
-- **Testing & QA:** Jest, Cypress, Vitest
-- **Other:** Design systems, performance optimization, accessibility (a11y), product design thinking
+My work revolves around solving complex scaling challenges and aligning frontend architecture with concrete business outcomes.
 
----
-
-## 🚀 Selected Projects
-
-### 🏎️ [Car Listing Marketplace](https://github.com/daniakabani/carListingMarketplace)
-> A feature-rich car listing platform with search filters, user roles, and authentication. Built with React, Redux, Express, and PostgreSQL.
-
-### ✅ [Tasks Manager](https://github.com/daniakabani/tasksManager)
-> Full-stack productivity app with role-based access control and JWT auth. Built using Next.js, Node.js, Knex/Objection, and PostgreSQL.
-
-### ☀️ [Weather App](https://github.com/daniakabani/weatherApp)
-> A sleek weather app that fetches real-time data and displays forecasts with clean UX.
+* **Platform Scaling & Consolidation:** Directed the consolidation of 6+ applications into a unified Next.js platform, removing 30-45% of duplicated business logic.
+* **Design Systems & UI Platforms:** System owner for MLDS Design System (120+ components), achieving **85%+ cross-team adoption** and reducing UI defects by 90%. This accelerated delivery cycles up to 40% faster.
+* **Performance & DX:** Cut CI build time from 18m to 6m (66% reduction). Optimized JavaScript execution by 35-40%, improving LCP from 3.8s to 1.9s (50% faster).
+* **Revenue Impact:** Implemented E2E checkout coverage and deployment safeguards that improved marketplace success from 22% to 95%, generating **USD 8M+ incremental quarterly revenue**.
 
 ---
 
-## 💼 Professional Highlight
+### ⚙️ Technologies I Leverage
 
-### 💳 [MoneyLion](https://web.moneylion.com)
-> As a senior engineer at MoneyLion, I played a key role in consolidating multiple web apps into a unified platform.  
-> - Built and deployed via **Cloudflare Pages**  
-> - Created our **custom design system** and user flows  
-> - Led frontend performance optimizations  
-> - Hands-on with authentication, security, and scalable UI patterns  
-> → Check it out: [web.moneylion.com](https://web.moneylion.com), [accounts.moneylion.com](https://accounts.moneylion.com)
+My focus is on creating scalable, type-safe, and performant foundations.
 
----
-
-### 🚗 [SOCAR / Trevo (Car Sharing & Mobility Tech)](https://trevo.my)
-> At SOCAR Malaysia, I took full product ownership over key features across their core car-sharing platforms:
-
-- 🛡️ **Built the entire insurance product**, end-to-end:
-  - Developed the **insurance dashboard**: [gearbox.trevo.my](https://gearbox.trevo.my)
-  - Built the **insurance user interface** for end-users: [guard.trevo.my](https://www.guard.trevo.my/home)
-  - Connected frontend + backend, handled API design, roles, and logic
-
-- 🌏 **Spearheaded Trevo's expansion into Indonesia**  
-  - Collaborated cross-functionally with product, ops, and backend teams  
-  - Contributed to frontend components for localized launch features
-
-- 🌐 Platforms:  
-  [trevo.my](https://trevo.my) | [socar.my](https://socar.my)
+| Category | Tools & Ecosystems |
+| :--- | :--- |
+| **Frontend Core** | Next.js, React, TypeScript, Microfrontends, SSR/SSG |
+| **Systems & DX** | Design Systems, Monorepos (Turborepo), Storybook, Playwright |
+| **Cloud/Backend Fluency** | Node.js/NestJS, PostgreSQL/Prisma, AWS, Kubernetes |
+| **Performance** | Web Vitals (LCP, CLS, INP), Lighthouse, bundle optimization. |
 
 ---
 
-## 🔍 Current Status
+### 🌱 Current Learning & Mentorship
 
-✅ Open to: **Remote full-time**, **contract**, or **freelance** work  
-📍 Prefers: **100% remote opportunities globally**  
-💡 Focused on: Contributing to fast-moving product teams that value **clean code, UI performance**, and **user empathy**
-
----
-
-## 🧠 What Drives Me
-
-I’m deeply motivated by solving problems through tech. Whether building tools that help recruiters (Volcanic), enhancing car-sharing experiences (SOCAR), or improving financial wellness for users (MoneyLion), I thrive on **product ownership**, **design collaboration**, and **shipping fast and often**.
+* **Current Deep Dive:** Exploring the implications of the new **Interaction to Next Paint (INP)** metric for large-scale e-commerce funnels. (I'm particularly interested in how we can instrument complex event handlers without excessive re-renders).
+* **Mentorship:** Always open to connecting with engineers looking to move from Mid-level to Senior/Staff, especially around **technical roadmap creation** and **business alignment**. (I previously led and grew a 13-engineer frontend chapter).
 
 ---
 
-## 🎸 Beyond Code
+### 📬 Let's Connect
 
-When I’m not coding, I enjoy:
-- 📷 **Photography**
-- 🎸 Playing electric guitar
-- 🏊 Swimming, 🥾 hiking, 🏃 running
-- 🔥 Hosting a good BBQ
+* **Portfolio:** https://danimation.space
+* **LinkedIn:** https://linkedin.com/in/daniakabani
+* **Medium:** https://medium.com/@daniakabani
+* **Email:** akabani.dani@gmail.com 
 
----
-
-## 📫 Let’s Connect
-
-- 🌐 [daniakabani.github.io](https://daniakabani.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/daniakabani)
-- 📧 Email: `daneakabane@gmail.com`
-
----
-
-> “The best code is invisible — it just works.”
-
+Open to global remote contract roles.
